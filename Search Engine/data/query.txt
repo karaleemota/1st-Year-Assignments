@@ -1,0 +1,11 @@
+AND STL the WebPages upfront
+OR STL LiSt
+INCOMING data/webpagedoublylinkedlists.txt
+OUTGOING data/webpage1.txt
+AND HeLlo wORlD
+AND
+singleword
+OUTGOING data/webpagelist.txt
+error errorr
+
+PRINT data/webpagelist.txt
