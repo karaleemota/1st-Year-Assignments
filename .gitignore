@@ -1,5 +1,22 @@
-# Prerequisites
-*.d
+# The following 3 lines are ignoring all the executables :D
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Unignore Makefiles
+!Makefile
+!makefile
+
+# ignore all .DS_Store files which you created during copying and pasting somethings 
+**/.DS_Store
+
+# Don't use gedit anyway 
+*~
 
 # Compiled Object files
 *.slo
