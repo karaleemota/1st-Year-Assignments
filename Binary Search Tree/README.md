@@ -1,2 +1,3 @@
-# CS 104 HW7
+# Binary Search Tree
 
+'bst.h' contains the implementation of a Binary Search Tree data structure.
